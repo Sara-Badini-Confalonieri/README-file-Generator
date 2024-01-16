@@ -41,6 +41,6 @@
   ## Questions
   If you have any question, feel free to contact me! 
   Email: sara.badiniconfalonieri@gmail.com
-  GitHub: [saraBC](https://github.com/saraBC)
+  GitHub: [Sara-Badini-Confalonieri](https://github.com/Sara-Badini-Confalonieri)
 
   
