@@ -2,12 +2,20 @@
 function generateMarkdown(data) {
 
   // Create the license badge
+<<<<<<< HEAD
   const licenseBadge = `![License: ${data.license}](https://img.shields.io/badge/License-${encodeURIComponent(data.license)}-green.svg)`;
+=======
+  const licenseBadge = `![License: ${data.license}](https://img.shields.io/badge/License-${(data.license)}-green.svg)`;
+>>>>>>> d1f4c276e32575a3ded360c0c19ace0643f9baa4
 
   return `# ${data.title}
 
   ${licenseBadge}
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> d1f4c276e32575a3ded360c0c19ace0643f9baa4
   ## Description
 
   ${data.description}
